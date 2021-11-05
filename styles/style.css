@@ -1,0 +1,13 @@
+.img    {
+    border-radius: 50%;
+    border:10px solid #EB0045;
+    margin-left: 33%;
+    width: 35%;
+    height: 35%;
+    height: 35%;
+    display: flex;
+}
+
+h5{
+    color: #EB0045;
+}
